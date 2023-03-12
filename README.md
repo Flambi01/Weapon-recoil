@@ -11,4 +11,4 @@ Hey !
 2) Add "start weapon-recoil" in your server.cfg.
 
 # The resource author is Jamsou
-Discord: jvmsou#5918
+Discord: Flambi#0002
