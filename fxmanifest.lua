@@ -1,6 +1,6 @@
 fx_version 'adamant'
 games { 'rdr3', 'gta5' }
-author "jamsou"
+author "Flambi#0002"
 
 files {
   "weapons.meta",
